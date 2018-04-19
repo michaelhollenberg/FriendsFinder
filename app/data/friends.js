@@ -13,14 +13,14 @@ var userData = [
       ]
     },
     {
-      "name": "Brittney",
+      "name": "Amy",
       "photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
       "scores":[
-          3,
-          2,
-          2,
           4,
-          1
+          5,
+          3,
+          3,
+          3
       ]
     },
     {

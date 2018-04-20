@@ -2,8 +2,8 @@
 
 var userData = [
     {
-      "name": "Joe",
-      "photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
+      "name": "Mike",
+      "photo": "http://pokerdb.thehendonmob.com/pictures/Michael_Hollenberg_winner__1_.jpg",
       "scores":[
             5,
             1,
@@ -14,7 +14,7 @@ var userData = [
     },
     {
       "name": "Amy",
-      "photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
+      "photo": "https://images.pexels.com/photos/160699/girl-dandelion-yellow-flowers-160699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "scores":[
           4,
           5,
@@ -25,7 +25,7 @@ var userData = [
     },
     {
       "name": "Kayla",
-      "photo": "https://avatars0.githubusercontent.com/u/1561825?v=3&s=460",
+      "photo": "https://images.pexels.com/photos/160699/girl-dandelion-yellow-flowers-160699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "scores":[
           1,
           1,
